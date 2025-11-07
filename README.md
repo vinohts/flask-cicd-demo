@@ -1,2 +1,2 @@
 # flask-cicd-demo
-CI/CD
+GitAction CI/CD
